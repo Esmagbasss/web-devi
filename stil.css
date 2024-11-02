@@ -1,0 +1,23 @@
+h3{
+   color:palegreen;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sitelinkleriBaslik{
+    font-size: 25px;
+}
+
+a   {
+    color:cadetblue;
+    text-decoration: none;
+}
+
+ul#navi{
+       list-style-type: none;
+       margin:0;
+       padding:0;
+
+
+}
